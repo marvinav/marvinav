@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hello, world!
+---
+ - I\`m currently learning React Native, node.js.
+
+
+ - 🐹My pet proect:  
+  biofleming
+
+My skills:
+ASP.NET Core, .Net, c#
+WinForms, WPF
+MVVM, MVC
+
+PostgreSql, MongoDB, SQLite
+
+HTML, CSS, JS
+TS, SASS
+nodejs, 
+
 
 <!--
 **marvinav/marvinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
