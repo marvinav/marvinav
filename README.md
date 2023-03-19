@@ -1,9 +1,3 @@
-## Resume in progress
-
-- [ ] Grammar check
-- [ ] Contact Me
-- [ ] Science
-
 ## Hi there 👋
 
 I graduated from `National University of Science and Technology "MISIS"` with a degree in materials science and technology. To be more precise, it is an interdisciplinary science, with an emphasis on physics.
